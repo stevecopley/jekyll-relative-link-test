@@ -4,7 +4,5 @@
 
 [filename with spaces](filename with spaces.md)
 
-[filename with plus spaces](filename+with+spaces.md)
-
 [filename with encoded spaces](filename%20with%20spaces.md)
 
